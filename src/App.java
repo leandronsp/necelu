@@ -1,3 +1,5 @@
+// Example from https://lucenetutorial.com/index.html
+//
 import java.io.IOException;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
